@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "target": "es2015",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "typeRoots": ["node_modules/@types"]
+    }
+}
